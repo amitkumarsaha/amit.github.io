@@ -103,7 +103,7 @@
     {
       "company": "Cognizant Technology Solutions",
       "position": "Senior Associate",
-      "website": "https://www.cognizant.com/",
+      "website": "https://www.cognizant.com",
       "startDate": "2017-December",
       "endDate": "2017-June",
       "summary": "Lead Software Engineer",
@@ -115,7 +115,10 @@
       ]
     },
     {
-      "company": ["Cerner India Health Services Pvt. Ltd.","(Formerly Siemens Technology and Services Pvt. Ltd.)"],
+      "company": [
+        "Cerner India Health Services Pvt. Ltd.",
+        "(Formerly Siemens Technology and Services Pvt. Ltd.)"
+      ],
       "position": "Senior Software Engineer",
       "website": "https://www.cerner.com",
       "startDate": "2015-December",
