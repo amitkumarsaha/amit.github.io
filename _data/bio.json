@@ -91,20 +91,20 @@
       ]
     }
   ],
-  "certification": [
+  "certifications": [
     {
       "title": "TOGAF 9.2",
       "date": "",
       "awarder": "The Open Group",
       "summary": "",
-      "url":"https://www.credly.com/badges/c69debb6-e634-4dfc-85bb-78fcd64badd8"
+      "url": "https://www.credly.com/badges/c69debb6-e634-4dfc-85bb-78fcd64badd8"
     },
     {
       "title": "Oracle Certified Java SE Professional",
       "date": "",
       "awarder": "Oracle",
       "summary": "",
-      "url":"https://www.credly.com/badges/fcaf7eb6-b6b3-4ac8-b573-43b4d0318302/linked_in_profile"
+      "url": "https://www.credly.com/badges/fcaf7eb6-b6b3-4ac8-b573-43b4d0318302/linked_in_profile"
     }
   ],
   "work": [
