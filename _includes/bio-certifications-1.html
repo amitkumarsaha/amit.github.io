@@ -10,7 +10,9 @@
           <p class="ui no-bottom"><b>{{ entry.title }}, {{ entry.date }}</b></p>
           <p class="ui no-bottom">{{ entry.awarder }}</p>
           <p class="ui">{{ entry.summary }}</p>
-          <p class="ui no-bottom"><a href="{{ entry.url }}">{{ entry.url | remove: "http://" | remove: "https://" }}</a></p>
+          {% if entry.url}
+            <p class="ui no-bottom"><a href="{{ entry.url }}">verify credential</a></p>
+          {% endif %}
         </div>
       </div>
       {% endfor %}
