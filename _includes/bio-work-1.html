@@ -12,6 +12,9 @@
     <div class="ui grid">
       <div class="twelve wide column no-bottom">
         <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
+        {% if entry.company-secondary %}
+        <p class="ui no-bottom">{{ entry.company-secondary }}</p>
+        {% endif %}
         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
           }}</a></p>
         <p class="ui no-bottom">{{ entry.summary }}</p>

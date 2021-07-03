@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Amit Kumar Saha",
-    "label": "Solutions Architect",
+    "label": "Architect",
     "picture": "https://amitkumarsaha.github.io/images/amit.jpg",
     "email": "mail2amit.saha@gmail.com",
     "phone": "(+91) 91364 59978",
@@ -115,9 +115,8 @@
       ]
     },
     {
-      "company": [
-        "Cerner India Health Services Pvt. Ltd. <br/> (Formerly Siemens Technology and Services Pvt. Ltd.)"
-      ],
+      "company": "Cerner India Health Services Pvt. Ltd.",
+      "company-secondary": "Formerly, Siemens Technology and Services Pvt. Ltd.",
       "position": "Senior Software Engineer",
       "website": "https://www.cerner.com",
       "startDate": "2015-December",
