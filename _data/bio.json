@@ -6,7 +6,7 @@
     "email": "mail2amit.saha@gmail.com",
     "phone": "(+91) 91364 59978",
     "website": "https://amitkumarsaha.github.io",
-    "summary": "I have more than 12 years of extensive experience in design and development with more than 3 years in leadership role as an Architect",
+    "summary": "Software Architect (Java, Python, Angular, Node.js, Cloud) ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,34 +24,22 @@
         "network": "linkedin",
         "username": "amitkumarsaha",
         "url": "https://www.linkedin.com/in/amitkumarsaha/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Blockchain",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Internet of Things",
       "keywords": [
       ]
     }
@@ -61,23 +49,26 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Typescript",
+        "Python",
+        "Spring Boot",
+        "Angular",
+        "Node.js",
+        "PHP/Laravel"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Enterprise Linux - RHEL, CentOS",
+        "Git- GitHub/Gitlab/Bitbucket",
+        "Apache Kafka",
+        "Apache Camel",
+        "Atlassian JIRA",
+        "Docker",
+        "Cloud"
       ]
     }
   ],
@@ -97,7 +88,7 @@
     {
       "company": "State Bank of India",
       "position": "Manager (Systems)",
-      "website": "",
+      "website": "https://bank.sbi",
       "startDate": "2017-06-20",
       "endDate": "Present",
       "summary": "Solution Architect",
@@ -105,59 +96,26 @@
         "Architectural design, review and decisions related to technology adoption and implementation",
         "Mentoring, setup, migration, transformation and adoption of industry standard tools, processes and techniques"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Star Award",
+      "date": "2019-2020",
+      "awarder": "State Bank of India",
+      "summary": "State Bank Global IT Centre Excellence Award (Star Award) is awarded to the employees of State Bank of India who have delivered excellence while performing their role or duty during that period"
     }
   ],
   "references": [
