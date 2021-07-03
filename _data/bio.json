@@ -6,7 +6,7 @@
     "email": "mail2amit.saha@gmail.com",
     "phone": "(+91) 91364 59978",
     "website": "https://amitkumarsaha.github.io",
-    "summary": "Software Architect (Java, Python, Angular, Node.js, Cloud) ",
+    "summary": "11 years of extensive experience in design and development with more than 3 years in leadership role as an Architect",
     "location": {
       "address": "",
       "postalCode": "",
@@ -91,10 +91,50 @@
       "website": "https://bank.sbi",
       "startDate": "2017-06-20",
       "endDate": "Present",
-      "summary": "Solution Architect",
+      "summary": "Architect",
       "highlights": [
-        "Architectural design, review and decisions related to technology adoption and implementation",
-        "Mentoring, setup, migration, transformation and adoption of industry standard tools, processes and techniques"
+        "Bridged the gap between business and technology by converting business requirements to technical specifications and solutions for technical team",
+        "Converted organizational goals into deliverables by engaging various stakeholders leading to increased efficiency, communication and transparency",
+        "Contributed towards team building and the professional development of peers by mentoring",
+        "Ensured consistency in architecture and implementation, by evaluating and adopting best practices, tools and technologies for solution",
+        "Built resiliency and scalability of the systems by designing and implementing OAuth2 based Identity and Access Management, Distributed Cache, Event Sourcing, Digital Document Execution with e-Signature, API Integration, Data encryption using AES and Digital signature among many others"
+      ]
+    },
+    {
+      "company": "Cognizant Technology Solutions",
+      "position": "Senior Associate",
+      "website": "https://www.cognizant.com/",
+      "startDate": "2017-December",
+      "endDate": "2017-June",
+      "summary": "Lead Software Engineer",
+      "highlights": [
+        "Drastically improved code quality and reusability by optimizing solutions, reviewing implementations, mentoring and leading a team of engineers for the development and support of software systems",
+        "Planed, designed, documented and coordinated the development and integration of systems",
+        "Minimized boilerplate code by migrating the project from Spring 1.x to Spring Boot 2.x",
+        "Reduced integration and build time by more than 70% by migrating to modern build tools and DevOps"
+      ]
+    },
+    {
+      "company": ["Cerner India Health Services Pvt. Ltd.","(Formerly Siemens Technology and Services Pvt. Ltd.)"],
+      "position": "Senior Software Engineer",
+      "website": "https://www.cerner.com",
+      "startDate": "2015-December",
+      "endDate": "2011-June",
+      "summary": "R&D Engineer",
+      "highlights": [
+        "Designed and developed new features and changes",
+        "Worked on data structure of existing and new proprietor tools and frameworks for implementing changes",
+        "Implemented Electronic Health Record (EHR) and HL7 processing, Meaningful Use-I, Meaningful Use-II and Medical Necessity engine for Cerner Soarian Financials"
+      ]
+    },
+    {
+      "company": "",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2011-June",
+      "endDate": "2008-July",
+      "summary": "Software Engineer",
+      "highlights": [
       ]
     }
   ],
