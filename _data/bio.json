@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Tools/Technologies/Skillset",
       "level": "",
       "keywords": [
         "Enterprise Linux - RHEL, CentOS",
@@ -67,8 +67,15 @@
         "Apache Kafka",
         "Apache Camel",
         "Atlassian JIRA",
+        "Jenkins",
+        "DevOps",
         "Docker",
-        "Cloud"
+        "Cloud - IaaS, SaaS, PaaS",
+        "Security",
+        "OAuth2 - PKI, TLS",
+        "SAML",
+        "Mentoring",
+        "Leadership"
       ]
     }
   ],
@@ -82,6 +89,22 @@
       "gpa": "",
       "courses": [
       ]
+    }
+  ],
+  "certification": [
+    {
+      "title": "TOGAF 9.2",
+      "date": "",
+      "awarder": "The Open Group",
+      "summary": "",
+      "url":""
+    },
+    {
+      "title": "Oracle Certified Java SE Professional",
+      "date": "",
+      "awarder": "Oracle",
+      "summary": "",
+      "url":""
     }
   ],
   "work": [
@@ -135,18 +158,6 @@
       "startDate": "2011-June",
       "endDate": "2008-July",
       "summary": "Software Engineer",
-      "highlights": [
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
       "highlights": [
       ]
     }
