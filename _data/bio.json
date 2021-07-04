@@ -54,6 +54,8 @@
         "Python",
         "Spring Boot",
         "Angular",
+        "React.js",
+        "Next.js",
         "Node.js",
         "PHP/Laravel"
       ]
@@ -111,7 +113,7 @@
       "company": "Cognizant Technology Solutions",
       "position": "Senior Associate",
       "website": "https://www.cognizant.com",
-      "startDate": "2017-December",
+      "startDate": "2015-December",
       "endDate": "2017-June",
       "summary": "Lead Software Engineer",
       "highlights": [
@@ -136,14 +138,32 @@
       ]
     },
     {
-      "company": "",
+      "company": "Multiple",
       "position": "Software Engineer",
       "website": "",
       "startDate": "2011-June",
       "endDate": "2008-July",
-      "summary": "Software Engineer",
+      "summary": "",
       "highlights": [
       ]
+    }
+  ],
+  "certification": [
+    {
+      "title": "TOGAF 9.2",
+      "awarder": "The Open Group",
+      "summary": "",
+      "startDate": "2020",
+      "endDate": "",
+      "url": "https://www.credly.com/badges/c69debb6-e634-4dfc-85bb-78fcd64badd8"
+    },
+    {
+      "title": "Oracle Certified Java SE Professional",
+      "awarder": "Oracle",
+      "summary": "",
+      "startDate": "2010",
+      "endDate": "",
+      "url": "https://www.credly.com/badges/fcaf7eb6-b6b3-4ac8-b573-43b4d0318302"
     }
   ],
   "awards": [
