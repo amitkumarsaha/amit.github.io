@@ -1,0 +1,18 @@
+<!-- Used by theme-bio-builtin-2 -->
+
+<div class="sixteen wide column no-bottom">
+  <h3 class="ui left aligned header no-bottom">Skills</h3>
+  <hr style="margin: 0px;">
+</div>
+
+
+{% for entry in site.data.bio.skills %}
+  <div class="twelve wide column no-bottom">
+    <p class="ui no-bottom"><b>{{ entry.name }}</b></p>
+    <p class="ui no-bottom">
+      {% for keyword in entry.keywords %}
+        {{ keyword }}{% if forloop.last != true %}, {% endif %}
+      {% endfor %}
+    </p>
+  </div>
+{% endfor %}
