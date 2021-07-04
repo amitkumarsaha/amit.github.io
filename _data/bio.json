@@ -64,7 +64,7 @@
       "name": "Tools/Technologies/Skillset",
       "level": "",
       "keywords": [
-        "Enterprise Linux - RHEL, CentOS",
+        "Linux",
         "Git- GitHub/Gitlab/Bitbucket",
         "Apache Kafka",
         "Apache Camel",
@@ -73,11 +73,10 @@
         "DevOps",
         "Docker",
         "Cloud - IaaS, SaaS, PaaS",
-        "Security",
-        "OAuth2 - PKI, TLS",
+        "Security - PKI, TLS",
+        "OAuth2",
         "SAML",
-        "Mentoring",
-        "Leadership"
+        "Mentoring"
       ]
     }
   ],
