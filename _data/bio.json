@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Amit Kumar Saha",
-    "label": "Architect",
+    "label": "Aspiring Entrepreneur, Enterprise Architect, Technology & Infomation Security Consultant",
     "picture": "https://amitkumarsaha.github.io/images/amit.jpg",
     "email": "mail2amit.saha@yahoo.com",
     "phone": "",
     "website": "https://aksaha.dev",
-    "summary": "Experienced in architecture, design and development of large-scale, distributed, scalable, enterprise software systems requiring technical skills, collaboration, communication and leadership",
+    "summary": "More than a decade and a half of experience in leadership, architecture, design, development, migration and support of large-scale, distributed, scalable, enterprise software systems",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Navi Mumbai",
-      "countryCode": "India",
-      "region": "Maharashtra"
+      "city": "Dublin",
+      "countryCode": "Ireland",
+      "region": ""
     },
     "profiles": [
       {
@@ -50,14 +50,12 @@
       "level": "",
       "keywords": [
         "Java",
-        "Typescript",
+        "Javascript",
         "Python",
         "Spring Boot",
         "Angular",
         "React.js",
-        "Next.js",
-        "Node.js",
-        "PHP/Laravel"
+        "Node.js"
       ]
     },
     {
@@ -65,7 +63,7 @@
       "level": "",
       "keywords": [
         "Linux",
-        "Git- GitHub/Gitlab/Bitbucket",
+        "Git",
         "Apache Kafka",
         "Apache Camel",
         "Atlassian JIRA",
@@ -82,7 +80,7 @@
   ],
   "education": [
     {
-      "institution": "West Bengal University of Technology, Kolkata, WB",
+      "institution": "West Bengal University of Technology, India",
       "area": "Computer Science and Engineering",
       "studyType": "Bachelor of Technology",
       "startDate": "2004",
@@ -94,11 +92,23 @@
   ],
   "work": [
     {
+      "company": "Ericsson R&D",
+      "position": "Senior Engineer",
+      "website": "https://bank.sbi",
+      "startDate": "2022-08-15",
+      "endDate": "Present",
+      "summary": "Cloud Native Engineer",
+      "highlights": [
+        "Designing and developing Ericsson Intelligent Automation platform for Network Management",
+        "Implementing Cloud Native Arcitecture and Contract Driven Development approach to develop Open APIs",
+        "Working on creating a platform to enable internal and 3rd party developers to develop and manage lifecycle of apps"      ]
+    },
+    {
       "company": "State Bank of India",
       "position": "Manager (Systems)",
       "website": "https://bank.sbi",
       "startDate": "2017-06-20",
-      "endDate": "Present",
+      "endDate": "2022-08-02",
       "summary": "Solutions Architect",
       "highlights": [
         "Bridged the gap between business and technology by converting business requirements to technical specifications and solutions for technical team",
@@ -123,8 +133,8 @@
       ]
     },
     {
-      "company": "Cerner India Health Services Pvt. Ltd.",
-      "company-secondary": "Formerly, Siemens Technology and Services Pvt. Ltd.",
+      "company": "Oracle Cerner",
+      "company-secondary": "",
       "position": "Senior Software Engineer",
       "website": "https://www.cerner.com",
       "startDate": "2015-December",
