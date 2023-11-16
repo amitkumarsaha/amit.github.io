@@ -99,7 +99,7 @@
       "endDate": "Present",
       "summary": "Cloud Native Engineer",
       "highlights": [
-        "Designing and developing Ericsson Intelligent Automation platform for Network Management",
+        "Designing and developing Ericsson Intelligent Automation Platform for Network Management",
         "Implementing Cloud Native Arcitecture and Contract Driven Development approach to develop Open APIs",
         "Working on creating a platform to enable internal and 3rd party developers to develop and manage lifecycle of apps"      ]
     },
@@ -158,6 +158,30 @@
     }
   ],
   "certification": [
+    {
+      "title": "AZ-900: Microsoft Azure Fundamentals",
+      "awarder": "Microsoft",
+      "summary": "",
+      "startDate": "2023",
+      "endDate": "",
+      "url": "https://www.credly.com/badges/bf7a9f36-4d9c-4c43-8829-aa1722732acb/public_url"
+    },
+    {
+      "title": "Service Mesh Essentials and Implementation with Istio",
+      "awarder": "Component Soft",
+      "summary": "",
+      "startDate": "2022",
+      "endDate": "",
+      "url": "https://app.diplomasafe.com/en-US/diploma/d311c09cbeb90aaad0790a599afc6ab368ef831cf/service-mesh-essentials-implementation-with-istio"
+    },
+    {
+      "title": "Containers and Kubernetes Networking Deep Dive",
+      "awarder": "Component Soft",
+      "summary": "",
+      "startDate": "2022",
+      "endDate": "",
+      "url": "https://app.diplomasafe.com/en-US/diploma/db41ea8d37ede75be06b7af737bb24efe4ab2c7af"
+    },
     {
       "title": "TOGAF 9.2",
       "awarder": "The Open Group",
