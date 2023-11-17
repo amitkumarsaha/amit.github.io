@@ -93,7 +93,7 @@
       "company": "Ericsson R&D",
       "position": "Senior Engineer",
       "website": "https://www.ericsson.com",
-      "startDate": "2022-08-15",
+      "startDate": "2022-August",
       "endDate": "Present",
       "summary": "Cloud Native Engineer",
       "highlights": [
@@ -105,8 +105,8 @@
       "company": "State Bank of India",
       "position": "Manager (Systems)",
       "website": "https://bank.sbi",
-      "startDate": "2017-06-20",
-      "endDate": "2022-08-02",
+      "startDate": "2017-June",
+      "endDate": "2022-August",
       "summary": "Solutions Architect",
       "highlights": [
         "Bridged the gap between business and technology by converting business requirements to technical specifications and solutions for technical team",
@@ -135,23 +135,13 @@
       "company-secondary": "",
       "position": "Senior Software Engineer",
       "website": "https://www.cerner.com",
-      "startDate": "2015-December",
-      "endDate": "2011-June",
+      "startDate": "2011-June",
+      "endDate": "2015-December",
       "summary": "R&D Engineer",
       "highlights": [
         "Designed and developed new features and changes",
         "Worked on data structure of existing and new proprietor tools and frameworks for implementing changes",
         "Implemented Electronic Health Record (EHR) and HL7 processing, Meaningful Use-I, Meaningful Use-II and Medical Necessity engine for Cerner Soarian Financials"
-      ]
-    },
-    {
-      "company": "Multiple",
-      "position": "Software Engineer",
-      "website": "",
-      "startDate": "2011-June",
-      "endDate": "2008-July",
-      "summary": "",
-      "highlights": [
       ]
     }
   ],
