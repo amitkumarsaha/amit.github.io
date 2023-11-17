@@ -2,7 +2,7 @@
   "basics": {
     "name": "Amit Kumar Saha",
     "label": "Aspiring Entrepreneur, Enterprise Architect, Technology & Infomation Security Consultant",
-    "picture": "https://amitkumarsaha.github.io/images/amit.jpg",
+    "picture": "https://amitkumarsaha.github.io/images/amit-1.jpg",
     "email": "mail2amit.saha@yahoo.com",
     "phone": "",
     "website": "https://aksaha.dev",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Internet of Things",
+      "name": "Business and Finance",
       "keywords": [
       ]
     }
@@ -66,15 +66,13 @@
         "Git",
         "Apache Kafka",
         "Apache Camel",
-        "Atlassian JIRA",
-        "Jenkins",
-        "DevOps",
+        "DevSecOps",
         "Docker",
-        "Cloud - IaaS, SaaS, PaaS",
+        "Kubernetes",
+        "AWS",
+        "Azure",
         "Security - PKI, TLS",
-        "OAuth2",
-        "SAML",
-        "Mentoring"
+        "OAuth2"
       ]
     }
   ],
